@@ -89,6 +89,7 @@ nav button {
 .features {
     font-size: 22px;
     padding: 50px 12%;
+    border-top: 6px solid #333;
 }
 .row {
     align-items: center;
@@ -253,11 +254,13 @@ input[type="radio"] {
     }
     .email-signup input {
         margin-right: 10px;
+        padding: 10px;
+        text-align: center;
     }
     .email-signup button {
-        font-size: 12px;
-        padding: 10px 15px;
-        max-width: 100px;
+        font-size: 14px;
+        padding: 7px 15px;
+        width: 400px;
     }
     .text-col, .img-col {
         flex-basis: 100%;
