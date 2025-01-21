@@ -214,6 +214,14 @@ input[type="radio"] {
     color: #fff;
     padding: 10px 20;
 }
+.footer h4 {
+    font-size: 14px;
+    font-weight: thin;
+    text-align: center;
+}
+.footer h4 a {
+    color:#d93f2b;
+}
 
 /*----media--queries--for--small-screens----*/
 
